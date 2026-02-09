@@ -206,7 +206,7 @@
           </div>
         </div>
       </nav>
-      <SidebarWidget v-if="isExpanded || isHovered || isMobileOpen" />
+      <!-- <SidebarWidget v-if="isExpanded || isHovered || isMobileOpen" /> -->
     </div>
   </aside>
 </template>
